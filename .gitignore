@@ -36,3 +36,5 @@ output_files/
 *example*
 *sopc_*
 PLLJ_PLLSPE_INFO.txt
+
+!CMakeLists.txt
